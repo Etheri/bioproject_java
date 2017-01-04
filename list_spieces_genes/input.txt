@@ -1,0 +1,18 @@
+> vidq : fere5461
+actgactgaaaaaaaaaatttttactagctagctagctacgatcagtgaa
+> vid1 : fghgf657
+cgtacgatgatacgttgcgcgattgcatgtcatctgt
+>vid2 : nhgjhg7687
+accgatcgatcgtacgtatggtacgtatgcagtaccgatcgatcgtacgtatg
+> vid2 : nhmhj789
+atcagtctatcgatcgtgcatggtatcgtacgta
+> vid3 : zsdsf3245
+gtctagatcgatcgatcatcgtgactggtatctgacgtatgcatgcgtatgctagct
+> vid4 : hfdgdfe234
+accgatgtatgcagtttcgatcgtacgtatggtaccgatcgtacgtatggtac
+> vid3 : fretrete23
+aaaagtacgtatgcagt
+> vid6 : fdsfre6
+cgtacgatgcgcgattgcatgtcatctgtatacgttggggcgtacgatgcgcgatcgtacgatgcgcgat
+> vid6 : jfdsfse7
+cgtacgatgcacgtacgatgcacgtacgatgca
